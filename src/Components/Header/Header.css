@@ -1,0 +1,19 @@
+.headerStyle{
+    border-bottom:2px solid rgb(224, 217, 217);
+    height: 65px;
+}
+
+.header-menu ul li{
+    
+}
+.header-menu ul {
+    display: flex;
+    
+}
+.paa{
+    padding-left: 100px;
+}
+input[type='search']{
+    line-height: 30px;
+    
+}
